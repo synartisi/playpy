@@ -4,6 +4,7 @@
 
 # 예외 처리: .py 파일은 무시하지 않음
 !*.py
+!*.ipynb
 
 # 예외 처리: .gitignore 파일 자체는 무시하지 않음
 !.gitignore
